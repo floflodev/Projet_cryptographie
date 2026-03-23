@@ -37,5 +37,6 @@ def chiffre_cesar_phrase(phrase, k):
             # Ajoute le caractere afin de former une phrase 
             nouveau_texte += nouvelle_lettre_phrase
     return nouveau_texte
-# Exemple avec la phrse "CAPTUREZ IDEFIX" et 3 pour k :   
-    
+# Exemple avec la phrase "CAPTUREZ IDEFIX !" et 3 pour k :   
+resultat = chiffre_cesar_phrase("CAPTUREZ IDEFIX !", 3)
+print(resultat) # Affiche FDSWXUHC LGHILA ! 
