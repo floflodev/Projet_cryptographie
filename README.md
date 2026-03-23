@@ -13,7 +13,7 @@ L'énonce est tiré d'un projet d'école préparatoire que j'ai pu trouver sur i
 - Activité 2 :
   Programmer le codage et le décodage d'un texte grace a un chiffrement de    subsitution
 - Activité 3 :
-  Utiliser la fréquence d'apparition des lettres pour décrypter un messge     en essyant de deviner la subsitutuion
+  Utiliser la fréquence d'apparition des lettres pour décrypter un message     en essayant de deviner la subsitutuion
 
     
   
