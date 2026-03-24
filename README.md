@@ -16,5 +16,13 @@ L'énonce est tiré d'un projet d'école préparatoire que j'ai pu trouver sur i
   Utiliser la fréquence d'apparition des lettres pour décrypter un message     en essayant de deviner la substitution (en cours)
 - Activité 4 :
   (Pas encore débutée)
+
+### Compétences mises en avant :
+-	Fonctions réutilisables et structurées
+-	Boucles (for, while)
+-	Conditions (if/else)
+- Algorithmes de chiffrement/déchiffrement (César, substitution)
+- Analyse et statistiques 
+- Documentation claire et lisible
     
   
